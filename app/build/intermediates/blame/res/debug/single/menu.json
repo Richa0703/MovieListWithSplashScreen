@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\RB\\Bachkup\\AndroidDevelopedApp\\MovieListAssignment\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\RB\\Bachkup\\AndroidDevelopedApp\\MovieListAssignment\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\MovieListAssignment-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\MovieListAssignment-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
